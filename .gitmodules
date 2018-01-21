@@ -1,0 +1,6 @@
+[submodule "src/angular/Webservices-Applications"]
+	path = src/angular/Webservices-Applications
+	url = https://github.com/StevenBoeckx/Webservices-Applications
+[submodule "src/laravel/database"]
+	path = src/laravel/database
+	url = https://github.com/StevenBoeckx/database
